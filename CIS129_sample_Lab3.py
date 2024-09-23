@@ -1,32 +1,18 @@
 #README
-
 #This Python program is a simulation that spits out a reciept for an order at "Matthew's Coffee Shop".
-
 #The user is asked to input the number of each item they want to buy.
-
 #The program then calculates the subtotal, applies a 6% tax, and gives a receipt.
-
-# Author: ????
+# Author: BRITTANY WROTE THIS WHOLE PROGRAM NOT MATTHEW :)
 
 #Program:
-
 #- Inputs: Number of coffees, muffins, scones, and brownies.
-
 #- Prices: Coffee is $5 each, Muffins are $4 each, scones are $3 each, and brownies are $2 each
-
 #- Output: A receipt showing the number of items, price breakdown, tax, and total.
 
-
-
 #How to Use:
-
 #1. Run the program.
-
 #2. Enter the number of each item when prompted.
-
 #3. The program will display a receipt with itemized prices, tax, and the final total.
-
-
 
 print("Welcome to Matthew's Coffee Shop! ")
 
